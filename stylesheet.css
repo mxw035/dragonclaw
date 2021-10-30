@@ -1,5 +1,5 @@
 body{
-  background:url(dragon.jpg);
+  background-color: purple;
   color:white;
   text-align:center;
 }
@@ -8,7 +8,7 @@ main {
   text-align:center;
 }
 header{
-  background-color:purple;
+  background-color:teal;
   text-align:white;
   color:white;
   font-family:cursive;
