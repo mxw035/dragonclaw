@@ -1,29 +1,39 @@
+.purple {
+  background-color:#88609e;
+}
+.blue {
+  background-color:#obbff5;
+}
+.green {
+  background-color:#7fbf2e;
+}
+
 body{
-  background-color: purple;
+  background-color:#88609e;
   color:white;
   text-align:center;
 }
 main {
-  background-color:green;
+  background-color:#7fbf2e;
   text-align:center;
 }
 header{
-  background-color:teal;
+  background-color:#95e2ef;
   text-align:white;
   color:white;
   font-family:cursive;
   font-size:150px;
 }
 h1{
-  background-color:aqua;
+  background-color:#95c096;
   text-align:center;
 }
 button{
-  background-color:yellow;
+  background-color:#d9c889;
   color:black;
   border-radius:12px;
 }
 nav{
-  background-color:darkblue;
+  background-color:#2f5273;
   border-radius:12px;
 }
